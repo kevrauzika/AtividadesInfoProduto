@@ -1,0 +1,177 @@
+[
+  {
+    "slug": "caca-palavras",
+    "pages": [
+      {
+        "file": "caca-palavras-exemplo-1.webp",
+        "level": 1,
+        "title": "CAÇA-PALAVRAS"
+      },
+      {
+        "file": "caca-palavras-exemplo-2.webp",
+        "level": 2,
+        "title": "CAÇA-PALAVRAS"
+      },
+      {
+        "file": "caca-palavras-exemplo-3.webp",
+        "level": 3,
+        "title": "CAÇA-PALAVRAS"
+      }
+    ]
+  },
+  {
+    "slug": "cruzadinhas",
+    "pages": [
+      {
+        "file": "cruzadinhas-exemplo-1.webp",
+        "level": 1,
+        "title": "CRUZADINHA"
+      },
+      {
+        "file": "cruzadinhas-exemplo-2.webp",
+        "level": 2,
+        "title": "CRUZADINHA"
+      },
+      {
+        "file": "cruzadinhas-exemplo-3.webp",
+        "level": 3,
+        "title": "CRUZADINHA"
+      }
+    ]
+  },
+  {
+    "slug": "labirintos",
+    "pages": [
+      {
+        "file": "labirintos-exemplo-1.webp",
+        "level": 1,
+        "title": "LABIRINTO"
+      },
+      {
+        "file": "labirintos-exemplo-2.webp",
+        "level": 2,
+        "title": "LABIRINTO"
+      },
+      {
+        "file": "labirintos-exemplo-3.webp",
+        "level": 3,
+        "title": "LABIRINTO"
+      }
+    ]
+  },
+  {
+    "slug": "alfabetizacao",
+    "pages": [
+      {
+        "file": "alfabetizacao-exemplo-1.webp",
+        "level": 1,
+        "title": "LETRA D"
+      },
+      {
+        "file": "alfabetizacao-exemplo-2.webp",
+        "level": 2,
+        "title": "FAMÍLIA DO V"
+      },
+      {
+        "file": "alfabetizacao-exemplo-3.webp",
+        "level": 3,
+        "title": "SEPARE AS SÍLABAS"
+      }
+    ]
+  },
+  {
+    "slug": "matematica",
+    "pages": [
+      {
+        "file": "matematica-exemplo-1.webp",
+        "level": 1,
+        "title": "QUAL TEM MAIS?"
+      },
+      {
+        "file": "matematica-exemplo-2.webp",
+        "level": 2,
+        "title": "MAIOR, MENOR OU IGUAL"
+      },
+      {
+        "file": "matematica-exemplo-3.webp",
+        "level": 3,
+        "title": "CONTAS ARMADAS"
+      }
+    ]
+  },
+  {
+    "slug": "logica",
+    "pages": [
+      {
+        "file": "logica-exemplo-1.webp",
+        "level": 1,
+        "title": "O QUE VEM DEPOIS?"
+      },
+      {
+        "file": "logica-exemplo-2.webp",
+        "level": 2,
+        "title": "SUDOKU 6×6"
+      },
+      {
+        "file": "logica-exemplo-3.webp",
+        "level": 3,
+        "title": "SEQUÊNCIAS LÓGICAS"
+      }
+    ]
+  },
+  {
+    "slug": "arte",
+    "pages": [
+      {
+        "file": "arte-exemplo-1.webp",
+        "level": 1,
+        "title": "COLORIR POR CÓDIGO"
+      },
+      {
+        "file": "arte-exemplo-2.webp",
+        "level": 2,
+        "title": "COLORIR POR CÓDIGO"
+      },
+      {
+        "file": "arte-exemplo-3.webp",
+        "level": 3,
+        "title": "COLORIR POR CÓDIGO"
+      }
+    ]
+  },
+  {
+    "slug": "criatividade",
+    "pages": [
+      {
+        "file": "criatividade-exemplo-1.webp",
+        "level": 1,
+        "title": "COMPLETE O DESENHO"
+      },
+      {
+        "file": "criatividade-exemplo-2.webp",
+        "level": 2,
+        "title": "COMPLETE A OUTRA METADE"
+      },
+      {
+        "file": "criatividade-exemplo-3.webp",
+        "level": 3,
+        "title": "HISTÓRIA EM QUADRINHOS"
+      }
+    ]
+  },
+  {
+    "slug": "certificados",
+    "pages": [
+      {
+        "file": "certificados-exemplo-1.webp",
+        "level": 1,
+        "title": "Medalhas para Recortar"
+      },
+      {
+        "file": "certificados-exemplo-2.webp",
+        "level": 2,
+        "title": "CERTIFICADO"
+      }
+    ]
+  }
+]
