@@ -57,12 +57,12 @@ document.querySelectorAll('[role="tab"]').forEach((tab,i)=>{
 });
 setLevel(1);
 
-const purchaseDialog = document.getElementById('purchase-dialog');
-document.querySelectorAll('.purchase').forEach(button=>button.addEventListener('click',()=>{
-  const checkout = window.HORA_CONFIG?.checkoutUrl;
-  if (checkout) {
-    try { const url = new URL(checkout); if(url.protocol==='https:'){window.location.assign(url.href);return;} } catch {}
-  }
-  purchaseDialog.showModal();
-}));
-document.querySelector('.close-purchase').addEventListener('click',()=>purchaseDialog.close());
+const checkout = window.HORA_CONFIG?.checkoutUrl;
+if (checkout) {
+  try {
+    const url = new URL(checkout);
+    if (url.protocol === 'https:') {
+      document.querySelectorAll('a.purchase').forEach(link => { link.href = url.href; });
+    }
+  } catch {}
+}
