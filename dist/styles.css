@@ -11,3 +11,16 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important}}
 
 @media(max-width:600px){.cover-three{right:20px}}
+
+/* No celular, a ilustração fica entre o título e os textos da oferta. */
+@media(max-width:600px){
+  .hero{gap:0}
+  .hero-copy{display:contents}
+  .hero-heading{order:0}
+  .hero-art{order:1;margin:12px auto 52px}
+  .hero-description{order:2}
+  .hero-detail{order:3}
+  .hero-price{order:4}
+  .hero-copy>.button{order:5}
+  .hero-copy>.microcopy{order:6}
+}
